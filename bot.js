@@ -4,9 +4,9 @@ console.log("Scrpit By Mehdi");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("هنا اي دي الروم")
+let channel =     client.channels.get("553580596366934031")
 setInterval(function() {
-channel.send(`هنا كلام ال سبام`);
+channel.send(`لا الله الى انت سبحانك اني كنت من ضالمين`);
 }, 30)
 })
 
